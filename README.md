@@ -18,3 +18,11 @@ that some risks arise from human decisions, while others
 are identified and categorized as high, medium, or low 
 based on structured evaluation methods, such as the EMV 
 (Expected Monetary Value) analysis.
+
+
+**Contribution By Aryan**
+Developed Risk 2: Merchant Acceptance Gap
+
+Prepared the problem statement based on SWOT findings
+Identified Key Risk Indicators (KRIs) and defined the traffic light threshold system
+Contributed to competitive analysis of payment networks
