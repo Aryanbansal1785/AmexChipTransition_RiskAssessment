@@ -26,3 +26,11 @@ Developed Risk 2: Merchant Acceptance Gap
 Prepared the problem statement based on SWOT findings
 Identified Key Risk Indicators (KRIs) and defined the traffic light threshold system
 Contributed to competitive analysis of payment networks
+
+
+**COntribution by Lawrence**
+Developed Risk 3: Contactless Payment Opportunity (Positive Risk)
+
+Wrote the opportunity statement and strategic impact
+Proposed mitigation and growth strategies
+Assisted with final formatting and completion of the risk calculation sheet
