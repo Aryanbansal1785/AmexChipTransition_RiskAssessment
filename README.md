@@ -14,32 +14,13 @@ Risk assessment for American Express's EMV chip card transition in the U.S. mark
 - Lawrence
 - Talata Nsobilla
 
-## My Contribution
-This risk analysis assignment required significant 
-collaboration among group members. Working on this 
-project helped me better understand how organizations 
-identify and evaluate competitive risks using structured 
-risk management tools such as risk registers, impact 
-analysis, and Key Risk Indicators (KRIs). My team members 
-also made the process easier by helping relate the concepts 
-to real-world situations. During our analysis, we observed 
-that some risks arise from human decisions, while others 
-are identified and categorized as high, medium, or low 
-based on structured evaluation methods, such as the EMV 
-(Expected Monetary Value) analysis.
+## Team Approach
+This risk analysis was completed through close collaboration. The team used structured risk management tools—risk registers, impact analysis, and Key Risk Indicators (KRIs)—to identify and evaluate competitive risks. We related concepts to real-world situations and categorized risks as high, medium, or low using methods such as EMV (Expected Monetary Value) analysis.
 
+## Team Contributions
 
-**Contribution By Aryan**
-Developed Risk 2: Merchant Acceptance Gap
+**Aryan Bansal** & **Talata Nsobilla** — Excel deliverables (`Assignment3_updated.xlsx`)
+- Risk calculation sheet, risk register data, and supporting analysis
 
-Prepared the problem statement based on SWOT findings
-Identified Key Risk Indicators (KRIs) and defined the traffic light threshold system
-Contributed to competitive analysis of payment networks
-
-
-**Contribution by Lawrence**
-Developed Risk 3: Contactless Payment Opportunity (Positive Risk)
-
-Wrote the opportunity statement and strategic impact
-Proposed mitigation and growth strategies
-Assisted with final formatting and completion of the risk calculation sheet
+**Lawrence** — Notebook (`Assignment_3.ipynb`)
+- Risk register implementation, risk heat map, and Random Forest classifier analysis
