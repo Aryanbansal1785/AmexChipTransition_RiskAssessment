@@ -1,5 +1,14 @@
 # AmexChipTransition_RiskAssessment
 
+Risk assessment for American Express's EMV chip card transition in the U.S. market. The project identifies, categorizes, and evaluates competitive, financial, and legal risks using a risk register, risk heat map, and a Random Forest classifier for risk classification.
+
+## Deliverables
+
+| Item | Description |
+|------|-------------|
+| `Assignment_3.ipynb` | Jupyter notebook: risk register, heat map, and Random Forest analysis |
+| `Assignment3_updated.xlsx` | Risk calculation sheet and supporting data |
+
 ## Group Members
 - Aryan Bansal
 - Lawrence
@@ -28,7 +37,7 @@ Identified Key Risk Indicators (KRIs) and defined the traffic light threshold sy
 Contributed to competitive analysis of payment networks
 
 
-**COntribution by Lawrence**
+**Contribution by Lawrence**
 Developed Risk 3: Contactless Payment Opportunity (Positive Risk)
 
 Wrote the opportunity statement and strategic impact
