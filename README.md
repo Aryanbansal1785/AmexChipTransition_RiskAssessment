@@ -6,8 +6,11 @@ Risk assessment for American Express's EMV chip card transition in the U.S. mark
 
 | Item | Description |
 |------|-------------|
-| `Assignment_3.ipynb` | Jupyter notebook: risk register, heat map, and Random Forest analysis |
+| `Assignment_3.ipynb` | Risk register, heat map, Random Forest analysis |
 | `Assignment3_updated.xlsx` | Risk calculation sheet and supporting data |
+| `Assignment_3_4.ipynb` | Monte Carlo simulation and risk analysis |
+| `Assignment3-4_probabilty impact.xlsx` | Probability and impact data |
+| `Assignment 4- Risk Mitigation Summary.docx` | Risk mitigation summary |
 
 ## Group Members
 - Aryan Bansal
@@ -19,8 +22,6 @@ This risk analysis was completed through close collaboration. The team used stru
 
 ## Team Contributions
 
-**Aryan Bansal** & **Talata Nsobilla** — Excel deliverables (`Assignment3_updated.xlsx`)
-- Risk calculation sheet, risk register data, and supporting analysis
-
-**Lawrence** — Notebook (`Assignment_3.ipynb`)
-- Risk register implementation, risk heat map, and Random Forest classifier analysis
+**Aryan Bansal** — Excel: risk calculation sheet, probability/impact data  
+**Lawrence** — Notebooks: risk register, heat map, Random Forest, Monte Carlo simulation  
+**Talata Nsobilla** — Word: Risk Mitigation Summary
