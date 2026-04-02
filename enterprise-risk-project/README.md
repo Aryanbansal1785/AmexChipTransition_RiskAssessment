@@ -1,16 +1,17 @@
-# Amex Chip Transition Signature Assessment
+# Amex EMV transition — risk analytics
 
+Workbooks, Jupyter notebooks, and narrative reports for the EMV transition risk study. The repository root [README](../README.md) summarizes motivation, methods, results, and citations.
 
-## Group Members
-- Aryan Bansal
-- Lawrence okolo
-- Talata Nsobilla
+## Contents
 
-## Team Approach
-This risk analysis was completed through close collaboration. The team used structured risk management tools—risk registers, impact analysis, and Key Risk Indicators (KRIs)—to identify and evaluate competitive risks. We related concepts to real-world situations and categorized risks as high, medium, or low using methods such as EMV (Expected Monetary Value) analysis.
+- **Data** — `data/raw/risk_inputs_raw.xlsx`, `data/processed/risk_register_updated.xlsx`, `data/processed/probability_impact.xlsx`
+- **Notebooks** — `eda.ipynb`, `qualitative_risk_register.ipynb`, `quantitative_risk_analysis.ipynb`, `monte_carlo_simulation.ipynb`
+- **Reports** — `report/Risk_Mitigation_Summary.docx`, `report/Integrated_Risk_Assessment.docx`
 
-## Team Contributions
+## Quick start
 
-**Aryan Bansal** — Excel: risk calculation sheet, probability/impact data  
-**Lawrence** — Notebooks: risk register, heat map, Random Forest, Monte Carlo simulation  
-**Talata Nsobilla** — Word: Risk Mitigation Summary
+```bash
+pip install -r requirement.txt
+```
+
+Open notebooks under `notebooks/`; data paths reference `data/raw/` and `data/processed/`.
